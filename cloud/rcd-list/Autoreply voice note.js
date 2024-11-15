@@ -6,7 +6,7 @@ import ffmpegStatic from 'ffmpeg-static';
 import fs from 'fs';
 import path from 'path';
 
-const audioMappingsUrl = 'https://github.com/rcd-git-hub-official/voice-note/raw/refs/heads/main/Test.json';
+const audioMappingsUrl = 'https://raw.githubusercontent.com/darkewing/AUTO-VOICE-NOTE/refs/heads/main/Auto%20reply.js';
 
 const gcEvent = async (m, Matrix) => {
   const prefixMatch = m.body.match(/^[\\/!#.]/);
