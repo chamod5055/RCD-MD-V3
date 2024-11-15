@@ -9,7 +9,7 @@
 
 <p align="center">
    <a href="https://github.com/rcd-git-hub-official/RCD-MD-V3">
-    <img src="https://i.ibb.co/ydr7c7C/Whats-App-Image-2024-11-15-at-19-47-51-04f9f0f4.jpg" " width="500" "height=500">
+    <img src="https://i.ibb.co/ydr7c7C/Whats-App-Image-2024-11-15-at-19-47-51-04f9f0f4.jpg" " width="500" "height="500">
 
 
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
