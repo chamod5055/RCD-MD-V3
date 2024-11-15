@@ -20,7 +20,7 @@ const config = {
   AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT !== undefined ? process.env.AUTO_REACT === 'true' : false,
 
     
-  AUTO_LIKE_STATUS: true, 
+  AUTO_VOICE_REPLY: true, 
   WELCOME: true,
   
   REJECT_CALL: process.env.REJECT_CALL !== undefined ? process.env.REJECT_CALL === 'true' : false, 
