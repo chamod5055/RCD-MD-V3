@@ -1,1 +1,1 @@
-pm2 start index.js --name "RCD-MD" --no-daemon
+pm2 start rcd-main.js --name "RCD-MD" --no-daemon
