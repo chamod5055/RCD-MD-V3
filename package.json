@@ -2,7 +2,7 @@
   "name": "RCD-MD",
   "version": "10.8.1",
   "description": "RCD-MD latest multi device whatsapp bot",
-  "main": "index.js",
+  "main": "rcd-main.js",
   "type": "module",
   "scripts": {
     "start": "pm2 start rcd-main.js --deep-monitoring --attach --name RCD-MD",
