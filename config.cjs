@@ -3,7 +3,7 @@ const fs = require("fs");
 require("dotenv").config();
 
 const config = {
-  SESSION_ID: process.env.SESSION_ID || "Your Session Id",
+  SESSION_ID: process.env.SESSION_ID || "RCD-MD&H1c1gk5J",
   triggerWords: [
     'send', 'statusdown', 'take', 'sent', 'giv', 'gib', 'upload',
     'send me', 'sent me', 'znt', 'snt', 'ayak', 'do', 'mee', 'autoread'
